@@ -26,6 +26,8 @@
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "gcweb-jekyll.gemspec",
+    "Gemfile",
+    "Gemfile.lock",
     "LICENSE*",
     "log_*",
     "netlify.toml",
