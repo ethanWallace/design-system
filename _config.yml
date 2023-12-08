@@ -144,7 +144,7 @@
           },
           {
             "title": "GC Task Success Survey",
-            "link": "survey/index.html"
+            "link": "https://design.canada.ca/survey/index.html"
           }
         ]
       }
@@ -253,7 +253,7 @@
             "title": "Canada.ca design system"
           },
           {
-            "link": "landing.html",
+            "link": "https://design.canada.ca/community",
             "title": "Community"
           }
         ]
@@ -273,7 +273,7 @@
             "title": "Canada.ca design system"
           },
           {
-            "link": "../continuous-improvement.html",
+            "link": "https://design.canada.ca/continuous-improvement.html",
             "title": "Continuous improvement"
           }
         ]
@@ -309,7 +309,7 @@
             "title": "Canada.ca design system"
           },
           {
-            "link": "crisis/content.html",
+            "link": "https://design.canada.ca/crisis/content.html",
             "title": "Crisis communications content design checklist"
           }
         ]
